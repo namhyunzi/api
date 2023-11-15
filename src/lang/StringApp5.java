@@ -1,6 +1,6 @@
 package lang;
 
-public class StringAppp5 {
+public class StringApp5 {
 
 	public static void main(String[] args) {
 		
